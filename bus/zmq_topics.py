@@ -1,5 +1,0 @@
-TOPIC_SENSORS = "sensors.raw"
-TOPIC_FAULTS = "faults.active"
-TOPIC_LOGGER = "logger.write"
-TOPIC_DASH = "dashboard.update"
-TOPIC_SYSTEM = "vcu.system"
